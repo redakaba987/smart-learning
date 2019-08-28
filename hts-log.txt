@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 28 Aug 2019 00:27:37 at http://max-themes.net/demos/smart-learning/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://max-themes.net/demos/smart-learning/index.html -O1 "C:\Users\rida.kabbani\Desktop\lnh academy\website\3\smart-learning" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:38:24	Error: 	"Not Found" (404) at link max-themes.net/demos/smart-learning/fonts/glyphicons-halflings-regular.html (from max-themes.net/demos/smart-learning/css/bootstrap.css)
+00:38:24	Error: 	"Not Found" (404) at link max-themes.net/demos/smart-learning/fonts/glyphicons-halflings-regulard41d.html? (from max-themes.net/demos/smart-learning/css/bootstrap.css)
+00:38:24	Error: 	"Not Found" (404) at link max-themes.net/demos/smart-learning/fonts/glyphicons-halflings-regular-2.html (from max-themes.net/demos/smart-learning/css/bootstrap.css)
+00:38:24	Error: 	"Not Found" (404) at link max-themes.net/demos/smart-learning/fonts/glyphicons-halflings-regular-3.html (from max-themes.net/demos/smart-learning/css/bootstrap.css)
+00:38:24	Error: 	"Not Found" (404) at link max-themes.net/demos/smart-learning/fonts/glyphicons-halflings-regular-4.html (from max-themes.net/demos/smart-learning/css/bootstrap.css)
+00:38:24	Error: 	"Not Found" (404) at link max-themes.net/demos/smart-learning/images/gradient/g30.html (from max-themes.net/demos/smart-learning/css/settings.css)
+00:38:24	Error: 	"Not Found" (404) at link max-themes.net/demos/smart-learning/images/gradient/g40.html (from max-themes.net/demos/smart-learning/css/settings.css)
+00:38:35	Error: 	"Not Found" (404) at link https://premiumlayers.com/demos/momental/1/img/blog/comments/3.jpg (from max-themes.net/demos/smart-learning/singlepost.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 4 seconds : 206 links scanned, 197 files written (15583065 bytes overall) [15402578 bytes received at 23196 bytes/sec], 621073 bytes transferred using HTTP compression in 2 files, ratio 31%, 3.0 requests per connection
+(8 errors, 0 warnings, 0 messages)
